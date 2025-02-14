@@ -12,3 +12,6 @@ Description: This notebook provides an overview of supervised learning technique
 
 5. Wine_Quality_Test.ipynb
 Description: In this project, a machine learning model is developed to predict the quality of wine based on physicochemical properties. The dataset includes features like acidity, sugar content, and pH levels.
+
+6. Connect 4 vs AI
+Decription: Created a connect 4 AI bot using reinforcement learning.
