@@ -15,3 +15,9 @@ Description: In this project, a machine learning model is developed to predict t
 
 6. Connect 4 vs AI
 Decription: Created a connect 4 AI bot using reinforcement learning.
+
+7. SatelliteImagery
+Description: Using CNN to predict what category of satllite imagery certain images belong to.
+
+8. Backpack
+Description: XG Boost to best predict the price of a backpack given parameters.
